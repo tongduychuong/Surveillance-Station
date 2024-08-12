@@ -13,6 +13,14 @@
 
 
 ---
+### ArmV8 (9.2.0-11289)
+- Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.2.0-11289/SurveillanceStation-armv8-9.2.0-11289.spk
+- Script:
+```
+bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/SurveillanceStation-ArmV8/install_license)
+```
+
+---
 ### Marvell Armada (9.2.0-11289)
 - Script:
 ```
